@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="144" viewBox="0 0 720 144">
+  <rect width="720" height="144" fill="#1a222e"/>
+  <path d="M1 0v144M719 0v144M32 1h656" stroke="#3c4857" stroke-width="2"/>
+  <text x="32" y="43" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="33" fill="#f0f2f4" font-weight="600">Chiselki</text>
+  <text x="32" y="78" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="26" fill="#d6dde6">An Android puzzle about matching numbers</text>
+  <text x="32" y="108" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="26" fill="#d6dde6">or finding pairs that add up to ten.</text>
+  <text x="32" y="135" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="23" fill="#b4c0ce">Kotlin, Jetpack Compose</text>
+  <path d="M674 31h12v12m0-12-14 14" fill="none" stroke="#b4c0ce" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
