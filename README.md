@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/D3R3j?tab=repositories"><img src="./profile-card.svg" width="880" alt="D3R3j. Android apps, Go APIs, and C# projects. Featured: Calorie Macro Tracker, Weather App, and Chiselki." /></a>
+  <a href="https://github.com/D3R3j?tab=repositories"><img src="./profile-card-en.svg" width="880" alt="D3R3j. Android apps, Go APIs, and C# projects. Featured: Calorie Macro Tracker, Weather App, and Chiselki." /></a>
 </div>
 
 <p align="center">
