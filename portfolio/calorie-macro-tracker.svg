@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160" viewBox="0 0 720 160">
+  <path d="M0 0h720v160H0Z" fill="#201f1c"/>
+  <path d="M1 0v160M719 0v160M32 159h656" fill="none" stroke="#424039" stroke-width="2"/>
+  <g font-family="Segoe UI, DejaVu Sans, sans-serif">
+    <text x="32" y="44" fill="#f6f0e4" font-size="32" font-weight="600">Calorie Macro Tracker</text>
+    <text x="32" y="78" font-size="26" fill="#ded6c8">Log home-cooked meals offline and calculate</text>
+    <text x="32" y="108" font-size="26" fill="#ded6c8">calories and macros from recipes and portions.</text>
+    <text x="32" y="140" fill="#bdb4a6" font-size="22">Android WebView / JavaScript</text>
+  </g>
+  <path d="M669 35h17m-7-7 7 7-7 7" fill="none" stroke="#bdb4a6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

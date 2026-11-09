@@ -1,22 +1,9 @@
-<img src="./portfolio-banner.svg" width="880" alt="D3R3j — Android apps, Go APIs, and C# tools. The illustration shows a pair that adds up to ten in Chiselki." />
-
-## About me
-
-I’m **D3R3j**. I build Android apps, write Go backends, and experiment with desktop tools and games in C#. My projects range from an offline food diary for home cooking to a number puzzle built with Jetpack Compose.
-
-## Repositories
-
-
-[![Calorie Macro Tracker — Android WebView · JavaScript. Calculate calories and macros for home-cooked meals, save recipes, and keep a diary offline.](./cards/calorie-macro-tracker.svg)](https://github.com/D3R3j/calorie-macro-tracker)
-
-[Download the APK](https://github.com/D3R3j/calorie-macro-tracker/releases/latest/download/calorie-macro-tracker.apk) · [Release notes](https://github.com/D3R3j/calorie-macro-tracker/releases/latest)
-
-[![Weather App — Flutter · Dart · Go · Gin. Check current weather, see a five-day forecast, and save favorite cities. Powered by a Go API.](./cards/weather-app.svg)](https://github.com/D3R3j/weather-app)
-
-[![Chiselki — Android · Kotlin · Jetpack Compose. Match identical numbers or find pairs that add up to ten across several difficulty levels.](./cards/chiselki.svg)](https://github.com/D3R3j/MobileApp_Chiselki)
-
-[![Warehouse Inventory — Windows · C# · WPF. A desktop coursework project for managing products, suppliers, stock movements, and counts.](./cards/warehouse-inventory.svg)](https://github.com/D3R3j/Kursovaya_DuzhikIlya)
-
-[![SuperMegaIgra — Unity · C#. A Unity game project with its source code, game assets, and project settings.](./cards/supermegaigra.svg)](https://github.com/D3R3j/SuperMegaIgra)
-
-[Browse all repositories](https://github.com/D3R3j?tab=repositories)
+<div align="center">
+<img align="top" width="100%" src="./portfolio/intro.svg" alt="D3R3j. About me: I build Android apps and Go backends. I also make desktop tools and games in C#. Repositories:" /><br />
+<a href="https://github.com/D3R3j/calorie-macro-tracker"><img align="top" width="100%" src="./portfolio/calorie-macro-tracker.svg" alt="Calorie Macro Tracker. Log home-cooked meals offline and calculate calories and macros from recipes and portions. Built with Android WebView / JavaScript." /></a><br />
+<a href="https://github.com/D3R3j/weather-app"><img align="top" width="100%" src="./portfolio/weather-app.svg" alt="Weather App. Check current weather and five-day forecasts, save cities, and fetch forecasts through a Go API. Built with Flutter / Dart / Go / Gin." /></a><br />
+<a href="https://github.com/D3R3j/MobileApp_Chiselki"><img align="top" width="100%" src="./portfolio/chiselki.svg" alt="Chiselki. Match identical numbers or pairs that add up to ten in an Android puzzle with difficulty levels. Built with Kotlin / Jetpack Compose." /></a><br />
+<a href="https://github.com/D3R3j/Kursovaya_DuzhikIlya"><img align="top" width="100%" src="./portfolio/warehouse-inventory.svg" alt="Warehouse Inventory. A desktop coursework project for tracking products, suppliers, stock movements, and inventory counts. Built with C# / WPF." /></a><br />
+<a href="https://github.com/D3R3j/SuperMegaIgra"><img align="top" width="100%" src="./portfolio/supermegaigra.svg" alt="SuperMegaIgra. A Unity game project with C# scripts, game assets, and project settings. Built with Unity / C#." /></a><br />
+<a href="https://github.com/D3R3j/calorie-macro-tracker/releases/latest/download/calorie-macro-tracker.apk"><img align="top" width="33.333%" src="./portfolio/apk.svg" alt="Download APK" /></a><a href="https://github.com/D3R3j/calorie-macro-tracker/releases/latest"><img align="top" width="33.333%" src="./portfolio/releases.svg" alt="Release notes" /></a><a href="https://github.com/D3R3j?tab=repositories"><img align="top" width="33.333%" src="./portfolio/repositories.svg" alt="All repositories" /></a>
+</div>

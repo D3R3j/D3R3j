@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="336" viewBox="0 0 720 336">
+  <path d="M1 336V21A20 20 0 0 1 21 1h678a20 20 0 0 1 20 20v315Z" fill="#201f1c"/>
+  <path d="M1 336V21A20 20 0 0 1 21 1h678a20 20 0 0 1 20 20v315M32 164h656M32 335h656" fill="none" stroke="#424039" stroke-width="2"/>
+  <g font-family="Segoe UI, DejaVu Sans, sans-serif">
+    <text x="32" y="118" fill="#f6f0e4" font-size="88" font-weight="600" letter-spacing="-3">D3R3j</text>
+    <text x="32" y="208" fill="#f6f0e4" font-size="30" font-weight="600">About me</text>
+    <text x="32" y="248" font-size="26" fill="#ded6c8">I build Android apps and Go backends. I also make</text>
+    <text x="32" y="282" font-size="26" fill="#ded6c8">desktop tools and games in C#.</text>
+    <text x="32" y="322" fill="#f6f0e4" font-size="28" font-weight="600">Repositories</text>
+  </g>
+  <path d="M568 116h9" stroke="#d8e695" stroke-width="2"/>
+  <g text-anchor="middle" font-family="Consolas, monospace" font-size="20">
+    <rect x="490" y="52" width="38" height="38" rx="7" fill="#2e2c27" stroke="#4c483e"/>
+    <text x="509" y="78" fill="#ded6c8">2</text>
+    <rect x="535" y="52" width="38" height="38" rx="7" fill="#2e2c27" stroke="#4c483e"/>
+    <text x="554" y="78" fill="#ded6c8">5</text>
+    <rect x="580" y="52" width="38" height="38" rx="7" fill="#2e2c27" stroke="#4c483e"/>
+    <text x="599" y="78" fill="#ded6c8">1</text>
+    <rect x="625" y="52" width="38" height="38" rx="7" fill="#2e2c27" stroke="#4c483e"/>
+    <text x="644" y="78" fill="#ded6c8">9</text>
+    <rect x="490" y="97" width="38" height="38" rx="7" fill="#2e2c27" stroke="#4c483e"/>
+    <text x="509" y="123" fill="#ded6c8">8</text>
+    <rect x="535" y="97" width="38" height="38" rx="7" fill="#d8e695" stroke="#d8e695"/>
+    <text x="554" y="123" fill="#272e12">3</text>
+    <rect x="580" y="97" width="38" height="38" rx="7" fill="#d8e695" stroke="#d8e695"/>
+    <text x="599" y="123" fill="#272e12">7</text>
+    <rect x="625" y="97" width="38" height="38" rx="7" fill="#2e2c27" stroke="#4c483e"/>
+    <text x="644" y="123" fill="#ded6c8">4</text>
+    <text x="577" y="152" fill="#bdb4a6" font-size="18">Chiselki · 3 + 7 = 10</text>
+  </g>
+</svg>
