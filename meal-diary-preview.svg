@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="208" viewBox="0 0 560 208" role="img" aria-labelledby="title desc">
+  <title id="title">Sample meal diary</title>
+  <desc id="desc">1,240 of 2,000 kcal logged. 760 kcal remaining. Lunch: 620 kcal.</desc>
+
+  <rect x=".5" y=".5" width="559" height="207" rx="12" fill="#f4f2ef" stroke="#ded8cf"/>
+  <g font-family="Segoe UI, DejaVu Sans, sans-serif" fill="#27231f">
+    <text x="24" y="37" font-size="16" font-weight="600">Daily summary</text>
+    <text x="536" y="37" text-anchor="end" font-size="14" fill="#655c52">Sample diary</text>
+    <text x="24" y="95" font-size="44" font-weight="500">760<tspan dx="8" font-size="21" fill="#655c52">kcal left</tspan></text>
+    <rect x="24" y="116" width="512" height="8" rx="4" fill="#ddd9cf"/>
+    <rect x="24" y="116" width="317.44" height="8" rx="4" fill="#557054"/>
+    <g font-size="14" fill="#655c52">
+      <text x="24" y="148">1,240 kcal logged</text>
+      <text x="536" y="148" text-anchor="end">2,000 kcal goal</text>
+    </g>
+    <path d="M24 164h512" stroke="#ded8cf"/>
+    <g font-size="15">
+      <text x="24" y="188">Lunch</text>
+      <text x="536" y="188" text-anchor="end">620 kcal</text>
+    </g>
+  </g>
+</svg>
