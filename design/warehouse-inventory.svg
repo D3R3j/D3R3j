@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="176" viewBox="0 0 880 176" role="img" aria-labelledby="title desc">
+  <title id="title">Warehouse Inventory</title>
+  <desc id="desc">A desktop coursework project for managing products, suppliers, stock movements, and counts. Windows · C# · WPF.</desc>
+  <rect x="1" y="1" width="878" height="174" rx="20" fill="#191f28" stroke="#394553" stroke-width="2"/>
+  <path d="M568 24v128" stroke="#394553"/>
+  <g font-family="Segoe UI, DejaVu Sans, sans-serif">
+    <text x="46" y="40" fill="#a8b6c4" font-size="19">Windows · C# · WPF</text>
+    <text x="44" y="86" fill="#edf0f2" font-size="38" font-weight="600">Warehouse Inventory</text>
+    <g fill="#d7dfe7" font-size="22">
+      <text x="46" y="122">A desktop coursework project for managing</text>
+      <text x="46" y="150">products, suppliers, stock movements, and counts.</text>
+    </g>
+  </g>
+  <g>
+    <g fill="#242e3b" stroke="#47566a"><rect x="646" y="38" width="148" height="90" rx="8"/><path d="M646 61h148m-148 22h148m-148 22h148m-47-44v67"/></g>
+    <path d="M660 50h52m-52 22h44m-44 22h57m-57 22h34" stroke="#8c9bab" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M760 72h20m-20 22h13m-13 22h16" stroke="#dfab99" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="720" y="150" text-anchor="middle" font-family="Consolas, DejaVu Sans Mono, monospace" fill="#a8b6c4" font-size="17">Stock ledger</text>
+  </g>
+</svg>
