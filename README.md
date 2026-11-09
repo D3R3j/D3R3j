@@ -1,18 +1,18 @@
 <div align="center">
-  <a href="https://github.com/D3R3j?tab=repositories"><img src="./profile-card.svg" width="880" alt="Илья · D3R3j. Мобильные приложения для Android, API на Go и проекты на C#. Избранное: Домашний баланс, Weather App и Чиселки." /></a>
+  <a href="https://github.com/D3R3j?tab=repositories"><img src="./profile-card.svg" width="880" alt="D3R3j. Android apps, Go APIs, and C# projects. Featured: Calorie Macro Tracker, Weather App, and Chiselki." /></a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/D3R3j/calorie-macro-tracker/releases/latest/download/calorie-macro-tracker.apk"><strong>Скачать APK</strong></a> ·
-  <a href="https://github.com/D3R3j/calorie-macro-tracker">Домашний баланс</a> ·
+  <a href="https://github.com/D3R3j/calorie-macro-tracker/releases/latest/download/calorie-macro-tracker.apk"><strong>Download APK</strong></a> ·
+  <a href="https://github.com/D3R3j/calorie-macro-tracker">Calorie Macro Tracker</a> ·
   <a href="https://github.com/D3R3j/weather-app">Weather App</a> ·
-  <a href="https://github.com/D3R3j/MobileApp_Chiselki">Чиселки</a>
+  <a href="https://github.com/D3R3j/MobileApp_Chiselki">Chiselki</a>
 </p>
 
 <details>
-<summary>Ещё проекты на C#</summary>
+<summary>More C# projects</summary>
 
-- [Складской учёт](https://github.com/D3R3j/Kursovaya_DuzhikIlya) — курсовой проект на WPF с учётом товаров, поставщиков и инвентаризации.
-- [SuperMegaIgra](https://github.com/D3R3j/SuperMegaIgra) — игровой проект на Unity.
+- [Warehouse Inventory](https://github.com/D3R3j/Kursovaya_DuzhikIlya) — WPF coursework project for managing products, suppliers, and stock counts.
+- [SuperMegaIgra](https://github.com/D3R3j/SuperMegaIgra) — a game project built with Unity.
 
 </details>

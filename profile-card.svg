@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="612" viewBox="0 0 880 612" role="img" aria-labelledby="title desc">
-  <title id="title">Илья · D3R3j — портфолио разработчика</title>
-  <desc id="desc">Мобильные приложения, Go API и проекты на C#. Домашний баланс, Weather App и Чиселки.</desc>
+  <title id="title">D3R3j — developer portfolio</title>
+  <desc id="desc">Android apps, Go APIs, and C# projects. Featured: Calorie Macro Tracker, Weather App, and Chiselki.</desc>
   <defs>
     <linearGradient id="surface" x2="1" y2="1">
       <stop stop-color="#0d1720"/>
@@ -22,10 +22,10 @@
 
   <g font-family="Segoe UI, DejaVu Sans, sans-serif">
     <rect x="33" y="86" width="507" height="216" rx="19" fill="#13222d" stroke="#344c58"/>
-    <text x="59" y="125" font-size="16" font-weight="600" letter-spacing="2.2" fill="#80f5c9">МОБИЛЬНАЯ РАЗРАБОТКА</text>
-    <text x="57" y="197" font-size="57" font-weight="750" fill="#f3f8fb">Привет, я Илья</text>
-    <text x="60" y="238" font-size="23" fill="#c2d3df">Делаю приложения для Android,</text>
-    <text x="60" y="271" font-size="23" fill="#c2d3df">пишу API на Go, разрабатываю на C#.</text>
+    <text x="59" y="125" font-size="16" font-weight="600" letter-spacing="2.2" fill="#80f5c9">MOBILE DEVELOPMENT</text>
+    <text x="57" y="197" font-size="57" font-weight="750" fill="#f3f8fb">Hi, I’m D3R3j</text>
+    <text x="60" y="238" font-size="23" fill="#c2d3df">I build Android apps, Go APIs,</text>
+    <text x="60" y="271" font-size="23" fill="#c2d3df">and desktop projects in C#.</text>
 
     <g clip-path="url(#art)">
       <rect x="555" y="86" width="292" height="216" fill="#14242e"/>
@@ -44,7 +44,7 @@
     </g>
     <rect x="555" y="86" width="292" height="216" rx="19" fill="none" stroke="#344c58"/>
 
-    <text x="34" y="345" font-size="21" font-weight="700" letter-spacing="1.6" fill="#f3f8fb">ИЗБРАННЫЕ ПРОЕКТЫ</text>
+    <text x="34" y="345" font-size="21" font-weight="700" letter-spacing="1.6" fill="#f3f8fb">FEATURED PROJECTS</text>
     <text x="846" y="345" text-anchor="end" font-family="Consolas, monospace" font-size="16" fill="#a0b4c4">01 — 03</text>
 
     <rect x="33" y="365" width="264" height="141" rx="17" fill="#16312d" stroke="#4b8273"/>
@@ -56,20 +56,20 @@
       <text x="601" y="394" fill="#cabbff">03 / KOTLIN</text>
     </g>
     <g font-size="24" font-weight="700" fill="#f3f8fb">
-      <text x="51" y="434">Домашний баланс</text>
+      <text x="51" y="434" font-size="21">Calorie Macro Tracker</text>
       <text x="326" y="434">Weather App</text>
-      <text x="601" y="434">Чиселки</text>
+      <text x="601" y="434">Chiselki</text>
     </g>
     <g font-size="18" fill="#c2d3df">
-      <text x="51" y="468">Калории, БЖУ и дневник</text>
-      <text x="51" y="490">без интернета</text>
-      <text x="326" y="468">Прогноз, избранное</text>
-      <text x="326" y="490">и свой API</text>
-      <text x="601" y="468">Числовая головоломка</text>
-      <text x="601" y="490">на Jetpack Compose</text>
+      <text x="51" y="468">Offline calorie and macro</text>
+      <text x="51" y="490">tracker with a food diary</text>
+      <text x="326" y="468">Forecasts, saved cities,</text>
+      <text x="326" y="490">and a Go backend</text>
+      <text x="601" y="468">Number puzzle built</text>
+      <text x="601" y="490">with Jetpack Compose</text>
     </g>
     <path d="M33 533H847" stroke="#344653"/>
-    <text x="33" y="571" font-size="16" font-weight="700" letter-spacing="1.4" fill="#80f5c9">СТЕК</text>
+    <text x="33" y="571" font-size="16" font-weight="700" letter-spacing="1.4" fill="#80f5c9">STACK</text>
     <text x="108" y="571" font-size="21" fill="#dbe7ef">Android · Kotlin · Compose · JavaScript · Flutter · Go · C#</text>
   </g>
 </svg>
