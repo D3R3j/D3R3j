@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="240" height="64" viewBox="0 0 240 64">
-  <path d="M0 0h240v64H0Z" fill="#201f1c"/>
-  <path d="M0 63h240M239 17v30" fill="none" stroke="#424039" stroke-width="2"/>
-  <text x="120" y="40" text-anchor="middle" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="24" fill="#f6f0e4">Release notes</text>
-</svg>
