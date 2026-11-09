@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="176" viewBox="0 0 880 176" role="img" aria-labelledby="title desc">
+  <title id="title">Calorie Macro Tracker</title>
+  <desc id="desc">Calculate calories and macros for home-cooked meals, save recipes, and keep a diary offline. Android WebView · JavaScript.</desc>
+  <rect x="1" y="1" width="878" height="174" rx="20" fill="#201f1c" stroke="#424039" stroke-width="2"/>
+  <path d="M568 24v128" stroke="#424039"/>
+  <g font-family="Segoe UI, DejaVu Sans, sans-serif">
+    <text x="46" y="40" fill="#beb7a9" font-size="19">Android WebView · JavaScript</text>
+    <text x="44" y="86" fill="#f6f0e4" font-size="38" font-weight="600">Calorie Macro Tracker</text>
+    <g fill="#ded6c8" font-size="22">
+      <text x="46" y="122">Calculate calories and macros for home-cooked</text>
+      <text x="46" y="150">meals, save recipes, and keep a diary offline.</text>
+    </g>
+  </g>
+  <g>
+    <rect x="632" y="32" width="176" height="96" rx="10" fill="#2e2c27" stroke="#4c483e"/>
+    <path d="M650 56h44m-44 46h32m18 0h24m16 0h48" stroke="#918779" stroke-width="3" stroke-linecap="round"/>
+    <rect x="648" y="75" width="144" height="8" rx="4" fill="#4c483e"/>
+    <rect x="648" y="75" width="96" height="8" rx="4" fill="#d8e695"/>
+    <text x="720" y="150" text-anchor="middle" font-family="Consolas, DejaVu Sans Mono, monospace" fill="#beb7a9" font-size="17">Recipe → portion → diary</text>
+  </g>
+</svg>
