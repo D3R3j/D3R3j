@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="264" viewBox="0 0 880 264" role="img" aria-labelledby="title desc">
+  <title id="title">D3R3j</title>
+  <desc id="desc">Android apps, Go APIs, and C# tools. A Chiselki board highlights the numbers 3 and 7.</desc>
+  <rect x="1" y="1" width="878" height="262" rx="20" fill="#201f1c" stroke="#424039" stroke-width="2"/>
+  <path d="M568 32v200" stroke="#424039"/>
+
+  <g font-family="Segoe UI, DejaVu Sans, sans-serif">
+    <text x="47" y="65" fill="#beb7a9" font-size="19">Developer portfolio</text>
+    <text x="42" y="157" fill="#f6f0e4" font-size="96" font-weight="600" letter-spacing="-4">D3R3j</text>
+    <text x="47" y="212" fill="#ded6c8" font-size="24">Android apps, Go APIs, and C# tools</text>
+  </g>
+
+  <g fill="#2e2c27" stroke="#4c483e">
+    <rect x="608" y="32" width="48" height="48" rx="8"/>
+    <rect x="664" y="32" width="48" height="48" rx="8"/>
+    <rect x="720" y="32" width="48" height="48" rx="8"/>
+    <rect x="776" y="32" width="48" height="48" rx="8"/>
+    <rect x="608" y="88" width="48" height="48" rx="8"/>
+    <rect x="776" y="88" width="48" height="48" rx="8"/>
+    <rect x="608" y="144" width="48" height="48" rx="8"/>
+    <rect x="664" y="144" width="48" height="48" rx="8"/>
+    <rect x="720" y="144" width="48" height="48" rx="8"/>
+    <rect x="776" y="144" width="48" height="48" rx="8"/>
+  </g>
+  <g fill="#d8e695">
+    <rect x="664" y="88" width="48" height="48" rx="8"/>
+    <rect x="720" y="88" width="48" height="48" rx="8"/>
+    <path d="M710 111h12v2h-12z"/>
+  </g>
+  <g text-anchor="middle" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="23" fill="#ded6c8">
+    <text x="632" y="64">2</text>
+    <text x="688" y="64">5</text>
+    <text x="744" y="64">1</text>
+    <text x="800" y="64">9</text>
+    <text x="632" y="120">8</text>
+    <text x="688" y="120" fill="#272e12">3</text>
+    <text x="744" y="120" fill="#272e12">7</text>
+    <text x="800" y="120">4</text>
+    <text x="632" y="176">6</text>
+    <text x="688" y="176">1</text>
+    <text x="744" y="176">2</text>
+    <text x="800" y="176">5</text>
+    <text x="716" y="226" fill="#beb7a9" font-size="16">Chiselki · 3 + 7 = 10</text>
+  </g>
+</svg>
