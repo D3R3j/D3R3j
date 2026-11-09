@@ -26,6 +26,13 @@
   </a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3R3j/D3R3j/output/snake-dark.svg" />
+    <img width="820" src="https://raw.githubusercontent.com/D3R3j/D3R3j/output/snake.svg" alt="Snake animation of D3R3j's GitHub contributions" />
+  </picture>
+</p>
+
 ## Projects
 
 ### [Calorie Macro Tracker](https://github.com/D3R3j/calorie-macro-tracker)
